@@ -4,5 +4,5 @@
 ### Steps to enable: 
 1. Select the Tag Template from the [Google Community Template Gallery](https://tagmanager.google.com/gallery/#/?page=1).
 2. Configure the tag including all additional attributes and flags. 
-3. Configure the tags trigger
+3. Configure the tags trigger. 
 4. Deploy the tag. 
