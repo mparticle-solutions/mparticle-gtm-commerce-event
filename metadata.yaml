@@ -1,0 +1,5 @@
+homepage: "https://www.mparticle.com"
+documentation: "https://docs.mparticle.com/developers/sdk/web/gtm-templates/#commerce-custom-and-screen-view-event-templates"
+versions:
+  - sha: 154418f8a762b8b04399ae3878a39dab3cbefd69
+    changeNotes: Initial Release
